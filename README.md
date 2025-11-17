@@ -2,7 +2,7 @@
 
 | Section | Description |
 | :--- | :--- |
-| **Aim** | [cite_start]Call a REST API (Ex. Weather API), process the JSON response, and write the data to a database[cite: 504]. |
+| **Aim** | Call a REST API (Ex. Weather API), process the JSON response, and write the data to a database. |
 | **Tool** | UiPath Studio with the **`UiPath.WebAPI.Activities`** and **`UiPath.Database.Activities`** packages installed. |
 
 ---
